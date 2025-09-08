@@ -10,3 +10,9 @@ p{
     text-align: end;
     color: wheat;
 }
+hr{
+    width: 50%;
+    color: cadetblue;
+    size: 2px;
+    background-color: azure;
+}
